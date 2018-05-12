@@ -1,0 +1,32 @@
+_repo: Myths-and-Legends-of-All-Nationsand-other-sources_20740
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Marshall, Logan
+    gutenberg_agent_id: '1300'
+    url: http://www.gutenberg.org/2009/agents/1300
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2007-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology'
+- !lcsh 'Legends'
+- !lcc 'BL'
+title: 'Myths and Legends of All Nations
+
+  Famous Stories from the Greek, German, English, Spanish,
+
+  Scandinavian, Danish, French, Russian, Bohemian, Italian
+
+  and other sources'
+url: http://www.gutenberg.org/ebooks/20740
